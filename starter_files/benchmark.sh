@@ -70,4 +70,4 @@
 # Total:        114  160  28.0    172     199#
 
 
-ab -n 10 -v 4 -p data.json -T 'application/json' -H 'Authorization: Bearer la4f69lFCwfCPAhdOZ9IAUj7uoIdOMBE' http://2ca1cd03-bb55-4adc-9ca8-01a23eb92547.westeurope.azurecontainer.io/score
+ab -n 10 -v 4 -p data.json -T 'application/json' -H 'Authorization: Bearer lxxxxxxxwfCPAhdOxxxxxxxIdxxxxx' http://2ca1cd03-bb55-4adc-9ca8-01a23eb92547.westeurope.azurecontainer.io/score
